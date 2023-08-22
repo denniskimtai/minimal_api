@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MySql_Minimal_Api_Project.props" />
+</Project>
